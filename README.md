@@ -7,5 +7,4 @@ I'm passionate about software development and enjoy problem-solving & building p
 
 ## 🛠️ Skills
 - Languages: C++, Python
-- Tools: Git, GitHub
 - Other: Data Structures, Algorithms
