@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mohamed Ismail 👋
 
 I'm passionate about software development and enjoy problem-solving & building projects.
 
