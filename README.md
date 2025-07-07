@@ -10,4 +10,4 @@ I'm passionate about software development and enjoy problem-solving & building p
 - *Tools:* **Git & Github**, Visual Studio
 - *Libraries & Frameworks:* **WinForms, .NET platform**
 - *Databases:* **SQL**
-- *Other:* **Data structures, Algorithms, Problem-solving, Competitive programming, Object-Oriented Programming (OOP)**
+- *Other:* **Data structures, Algorithms, Problem-solving, Competitive Programming, Object-Oriented Programming (OOP)**
