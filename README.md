@@ -6,7 +6,7 @@ I'm passionate about software development and enjoy problem-solving & building p
 - **Programming Languages:** C++, C#
 - **Backend:** .NET Framework, ADO.NET, LINQ
 - **Databases:** SQL Server, T-SQL
-- **Frontend**: WordPress, WinForms
+- **Frontend:** WinForms
 - **Tools:** Git & Github
 - **Other:** Data structures, Algorithms, Problem-solving, Competitive Programming, Object-Oriented Programming (OOP), Concurrent (Parallel) Programming (Multithreading/Asynchronous)
 
