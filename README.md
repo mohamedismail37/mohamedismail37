@@ -5,7 +5,7 @@ I'm passionate about software development and enjoy problem-solving & building p
 ## 🛠️ Technical Skills
 - **Programming Languages:** C++, C#
 - **Backend:** .NET Framework, ADO.NET, LINQ
-- **Databases:** SQL Server
+- **Databases:** SQL Server, T-SQL
 - **Frontend**: WordPress, WinForms
 - **Tools:** Git & Github
 - **Other:** Data structures, Algorithms, Problem-solving, Competitive Programming, Object-Oriented Programming (OOP), Concurrent (Parallel) Programming (Multithreading/Asynchronous)
