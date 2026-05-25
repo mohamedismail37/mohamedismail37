@@ -11,14 +11,17 @@ I'm passionate about software development and enjoy problem-solving & building p
 - **Other:** Data structures, Algorithms, Problem-solving, Competitive Programming, Object-Oriented Programming (OOP), Concurrent (Parallel) Programming (Multithreading/Asynchronous)
 
 ## ⚡ By the Numbers
+
 <div align="center">
+  
 | 🛠️ | 🏆 | 💡 |
 |:---:|:---:|:---:|
 | **12+** | **4** | **100+** |
 | Projects Completed | Hackathon Awards | Problems Solved |
+
 </div>
 
 
 ## 📫 Connect with Me  
 - **Email**: [mohamedismailfh@gmail.com](mailto:mohamedismailfh@gmail.com)  
-- **LinkedIn**: [Mohamed Isamil](https://www.linkedin.com/in/mohamed-ismail-fh/) 
+- **LinkedIn**: [Mohamed Ismail](https://www.linkedin.com/in/mohamed-ismail-fh/) 
